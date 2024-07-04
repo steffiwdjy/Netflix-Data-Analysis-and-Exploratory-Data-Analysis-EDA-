@@ -3,6 +3,10 @@
 ### Project Overview
 This project focuses on the analysis and exploration of the Netflix dataset to uncover patterns, trends, and insights about the content offered on the platform. By performing Exploratory Data Analysis (EDA), we aim to understand the characteristics of the Netflix library, including genre distribution, content ratings, release years, and more. This analysis will help us gain a deeper understanding of Netflix's content strategy and viewer preferences.
 
+**Description of the file:**
+- dataset : dataset
+- Netflix Data Analytics.ipynb : EDA (Exploratory Data Analysis (EDA)) and Data Analysis
+
 ### Dataset Overview
 The dataset contains information about movies and TV shows available on Netflix. Key attributes in the dataset include:
 - Show_Id: Unique ID for each show.
